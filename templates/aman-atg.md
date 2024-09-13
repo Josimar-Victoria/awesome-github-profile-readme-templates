@@ -23,14 +23,13 @@
 
 <br/>
 
+
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+Soy un Desarrollador Frontend con 4 años de experiencia, enfocado en crear aplicaciones web rápidas, funcionales y atractivas. Mi especialidad es el desarrollo con tecnologías como TypeScript, JavaScript, React, Next.js y Firebase, además de contar con experiencia en Vue.js y Quasar Framework. Me apasiona transformar ideas en soluciones digitales efectivas, siempre con un enfoque en la usabilidad y la experiencia del usuario.
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+Me considero una persona proactiva, siempre buscando nuevas formas de mejorar mis habilidades y mantenerme al día con las últimas tendencias tecnológicas. He trabajado en proyectos que abarcan desde la integración de APIs, manejo avanzado de estados, hasta la implementación de características complejas como la autenticación y la gestión de archivos.
 <br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+Busco seguir desarrollándome como profesional, contribuyendo a proyectos desafiantes y colaborando en entornos donde la innovación y la calidad del código sean prioritarias.
 </p>
 
 
